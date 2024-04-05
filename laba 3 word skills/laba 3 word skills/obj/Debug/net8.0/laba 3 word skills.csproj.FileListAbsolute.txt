@@ -1,0 +1,14 @@
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\bin\Debug\net8.0\laba 3 word skills.exe
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\bin\Debug\net8.0\laba 3 word skills.deps.json
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\bin\Debug\net8.0\laba 3 word skills.runtimeconfig.json
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\bin\Debug\net8.0\laba 3 word skills.dll
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\bin\Debug\net8.0\laba 3 word skills.pdb
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\laba 3 word skills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\laba 3 word skills.AssemblyInfoInputs.cache
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\laba 3 word skills.AssemblyInfo.cs
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\laba 3 word skills.csproj.CoreCompileInputs.cache
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\laba 3 word skills.dll
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\refint\laba 3 word skills.dll
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\laba 3 word skills.pdb
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\laba 3 word skills.genruntimeconfig.cache
+C:\Users\dushi\source\repos\laba 3 word skills\laba 3 word skills\obj\Debug\net8.0\ref\laba 3 word skills.dll
